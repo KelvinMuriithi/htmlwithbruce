@@ -1,0 +1,9 @@
+p {
+  color: red;
+ }
+.unordered-list {
+            list-style-type: square;
+        }
+        #pet-image {
+            width: 300px;
+        }       
